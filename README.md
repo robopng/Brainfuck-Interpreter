@@ -1,5 +1,3 @@
 # Brainfuck-Interpreter
-Simply designed brainfuck interpreter intended to have functionality for an infinite amount of memory cells.
+Simply designed brainfuck interpreter intended to have functionality for an infinite amount of memory cells represented via vector array.
 Using the 2020 c++ standard. 
-
-This is a change to the readme intended to test out branches in github
